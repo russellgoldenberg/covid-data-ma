@@ -1,4 +1,4 @@
-# COVD-19 Massachusetts Data in csv Format
+# COVID-19 Massachusetts data in csv format
 
 - [DPH](covid-ma--dph.csv) - Massachusetts Department of Public Health (official source)
 - [NYT](covid-ma--nyt.csv) - New York Times (used to double check values)
