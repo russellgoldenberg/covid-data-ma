@@ -1,0 +1,24 @@
+{
+  "name": "covid-data-ma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/cf9f9c6109a54a66bb90c435988eac20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/cf9f9c6109a54a66bb90c435988eac20"
+  },
+  "homepage": "https://gist.github.com/cf9f9c6109a54a66bb90c435988eac20",
+  "dependencies": {
+    "@sendgrid/mail": "^7.0.0",
+    "request": "^2.88.2"
+  }
+}
