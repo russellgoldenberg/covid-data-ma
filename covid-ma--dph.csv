@@ -106,6 +106,7 @@ date,county,cases,deaths
 2020-03-16,Norfolk,36,0
 2020-03-16,Plymouth,5,0
 2020-03-16,Suffolk,42,0
+2020-03-16,Unknown,1,0
 2020-03-16,Worcester,8,0
 2020-03-17,Barnstable,2,0
 2020-03-17,Berkshire,14,0
@@ -116,6 +117,7 @@ date,county,cases,deaths
 2020-03-17,Norfolk,43,0
 2020-03-17,Plymouth,5,0
 2020-03-17,Suffolk,42,0
+2020-03-17,Unknown,1,0
 2020-03-17,Worcester,8,0
 2020-03-18,Barnstable,2,0
 2020-03-18,Berkshire,17,0
@@ -127,6 +129,7 @@ date,county,cases,deaths
 2020-03-18,Norfolk,45,0
 2020-03-18,Plymouth,5,0
 2020-03-18,Suffolk,51,0
+2020-03-18,Unknown,4,0
 2020-03-18,Worcester,10,0
 2020-03-19,Barnstable,5,0
 2020-03-19,Berkshire,18,0
@@ -139,6 +142,7 @@ date,county,cases,deaths
 2020-03-19,Norfolk,52,0
 2020-03-19,Plymouth,5,0
 2020-03-19,Suffolk,72,0
+2020-03-19,Unknown,13,0
 2020-03-19,Worcester,14,0
 2020-03-20,Barnstable,9,0
 2020-03-20,Berkshire,20,0
@@ -151,6 +155,7 @@ date,county,cases,deaths
 2020-03-20,Norfolk,64,0
 2020-03-20,Plymouth,11,0
 2020-03-20,Suffolk,87,1
+2020-03-20,Unknown,18,0
 2020-03-20,Worcester,19,0
 2020-03-21,Barnstable,11,0
 2020-03-21,Berkshire,21,0
@@ -164,6 +169,7 @@ date,county,cases,deaths
 2020-03-21,Norfolk,69,0
 2020-03-21,Plymouth,20,0
 2020-03-21,Suffolk,108,1
+2020-03-21,Unknown,26,0
 2020-03-21,Worcester,24,0
 2020-03-22,Barnstable,24,0
 2020-03-22,Berkshire,23,1
@@ -177,6 +183,7 @@ date,county,cases,deaths
 2020-03-22,Norfolk,75,0
 2020-03-22,Plymouth,25,0
 2020-03-22,Suffolk,126,2
+2020-03-22,Unknown,34,0
 2020-03-22,Worcester,37,0
 2020-03-23,Barnstable,30,0
 2020-03-23,Berkshire,26,1
@@ -190,6 +197,7 @@ date,county,cases,deaths
 2020-03-23,Norfolk,82,0
 2020-03-23,Plymouth,32,0
 2020-03-23,Suffolk,154,2
+2020-03-23,Unknown,57,0
 2020-03-23,Worcester,42,0
 2020-03-24,Barnstable,40,0
 2020-03-24,Berkshire,37,2
@@ -203,6 +211,7 @@ date,county,cases,deaths
 2020-03-24,Norfolk,129,0
 2020-03-24,Plymouth,64,0
 2020-03-24,Suffolk,234,2
+2020-03-24,Unknown,90,4
 2020-03-24,Worcester,73,0
 2020-03-25,Barnstable,51,1
 2020-03-25,Berkshire,71,2
@@ -217,6 +226,7 @@ date,county,cases,deaths
 2020-03-25,Norfolk,222,1
 2020-03-25,Plymouth,101,0
 2020-03-25,Suffolk,342,2
+2020-03-25,Unknown,159,4
 2020-03-25,Worcester,129,2
 2020-03-26,Barnstable,67,1
 2020-03-26,Berkshire,73,2
@@ -231,6 +241,7 @@ date,county,cases,deaths
 2020-03-26,Norfolk,292,2
 2020-03-26,Plymouth,138,0
 2020-03-26,Suffolk,448,3
+2020-03-26,Unknown,267,4
 2020-03-26,Worcester,166,3
 2020-03-27,Barnstable,100,2
 2020-03-27,Berkshire,105,4
@@ -245,6 +256,7 @@ date,county,cases,deaths
 2020-03-27,Norfolk,393,6
 2020-03-27,Plymouth,187,0
 2020-03-27,Suffolk,631,3
+2020-03-27,Unknown,304,4
 2020-03-27,Worcester,219,3
 2020-03-28,Barnstable,133,2
 2020-03-28,Berkshire,119,4
@@ -259,6 +271,7 @@ date,county,cases,deaths
 2020-03-28,Norfolk,490,8
 2020-03-28,Plymouth,272,0
 2020-03-28,Suffolk,843,4
+2020-03-28,Unknown,358,4
 2020-03-28,Worcester,291,5
 2020-03-29,Barnstable,148,2
 2020-03-29,Berkshire,151,5
@@ -273,6 +286,7 @@ date,county,cases,deaths
 2020-03-29,Norfolk,548,9
 2020-03-29,Plymouth,325,0
 2020-03-29,Suffolk,940,4
+2020-03-29,Unknown,462,4
 2020-03-29,Worcester,337,5
 2020-03-30,Barnstable,173,2
 2020-03-30,Berkshire,162,5
@@ -287,6 +301,7 @@ date,county,cases,deaths
 2020-03-30,Norfolk,628,10
 2020-03-30,Plymouth,380,0
 2020-03-30,Suffolk,1115,6
+2020-03-30,Unknown,491,4
 2020-03-30,Worcester,390,5
 2020-03-31,Barnstable,191,2
 2020-03-31,Berkshire,171,6
@@ -301,6 +316,7 @@ date,county,cases,deaths
 2020-03-31,Norfolk,738,12
 2020-03-31,Plymouth,459,2
 2020-03-31,Suffolk,1373,7
+2020-03-31,Unknown,335,5
 2020-03-31,Worcester,433,7
 2020-04-01,Barnstable,255,3
 2020-04-01,Berkshire,183,6
@@ -315,6 +331,7 @@ date,county,cases,deaths
 2020-04-01,Norfolk,829,15
 2020-04-01,Plymouth,561,5
 2020-04-01,Suffolk,1624,14
+2020-04-01,Unknown,335,5
 2020-04-01,Worcester,563,9
 2020-04-02,Barnstable,283,3
 2020-04-02,Berkshire,213,7
@@ -329,6 +346,7 @@ date,county,cases,deaths
 2020-04-02,Norfolk,938,21
 2020-04-02,Plymouth,621,6
 2020-04-02,Suffolk,1896,20
+2020-04-02,Unknown,270,5
 2020-04-02,Worcester,667,13
 2020-04-03,Barnstable,314,6
 2020-04-03,Berkshire,240,7
@@ -343,6 +361,7 @@ date,county,cases,deaths
 2020-04-03,Norfolk,1045,24
 2020-04-03,Plymouth,745,7
 2020-04-03,Suffolk,2183,22
+2020-04-03,Unknown,213,5
 2020-04-03,Worcester,825,14
 2020-04-04,Barnstable,330,6
 2020-04-04,Berkshire,253,10
@@ -357,6 +376,7 @@ date,county,cases,deaths
 2020-04-04,Norfolk,1199,25
 2020-04-04,Plymouth,898,8
 2020-04-04,Suffolk,2429,27
+2020-04-04,Unknown,274,5
 2020-04-04,Worcester,915,17
 2020-04-05,Barnstable,347,6
 2020-04-05,Berkshire,258,13
@@ -371,4 +391,20 @@ date,county,cases,deaths
 2020-04-05,Norfolk,1271,26
 2020-04-05,Plymouth,963,10
 2020-04-05,Suffolk,2658,28
+2020-04-05,Unknown,215,5
 2020-04-05,Worcester,978,17
+2020-04-06,Barnstable,383,7
+2020-04-06,Berkshire,268,13
+2020-04-06,Bristol,722,8
+2020-04-06,Dukes,8,1
+2020-04-06,Essex,1653,30
+2020-04-06,Franklin,107,13
+2020-04-06,Hampden,889,39
+2020-04-06,Hampshire,147,2
+2020-04-06,Middlesex,2950,48
+2020-04-06,Nantucket,9,0
+2020-04-06,Norfolk,1382,29
+2020-04-06,Plymouth,1067,14
+2020-04-06,Suffolk,2929,32
+2020-04-06,Unknown,246,6
+2020-04-06,Worcester,1077,18
