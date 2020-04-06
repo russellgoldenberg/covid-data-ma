@@ -6,3 +6,5 @@ Data is cumulative. Use the DPH file.
 - [NYT](covid-ma--nyt.csv) - New York Times (used to double check values)
 
 [Data source](https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts)
+
+Filing Deaths listed as "Dukes and Nantucket" under Dukes.
